@@ -1,11 +1,16 @@
 
 
 <p align="center">
-    preview do podcast
+  preview do podcast
 </p>
 
 <div align="center">
-    <audio src="output/podcast_EP1.mp3" controls title="Podcast Ep.1"></audio>
+  <audio controls preload="none" title="Podcast Ep.1">
+    <source src="https://raw.githubusercontent.com/beatrizvesco/podcast-generated-by-ia-dio/main/output/podcast_EP1.mp3" type="audio/mpeg">
+    Seu navegador não suporta áudio HTML5.
+  </audio>
+  <br/>
+  <a href="https://raw.githubusercontent.com/beatrizvesco/podcast-generated-by-ia-dio/main/output/podcast_EP1.mp3">▶️ Ouvir/baixar o episódio (link direto)</a>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
