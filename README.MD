@@ -65,15 +65,17 @@ Siga o passo a passo para criar um podcast de maneira automatizada:
 
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em ética e IAs e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast simples e educativo, que remeta a IA. O podcast vai falar sobre os aspectos éticos do uso das IAs generativas. 
+### Título
+
+```md
+Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em ética e IAs e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast simples e educativo, que remeta a IA. O podcast vai falar sobre os aspectos éticos do uso das IAs generativas.
 {REGRAS}
 - O nome deve ser enxuto, um nome e um subtítulo
--  O nome transmitir profissionalismo e autoridade
-- O nome deve conter alguma palavra forte que remeta a inteligência artificial 
+- O nome transmitir profissionalismo e autoridade
+- O nome deve conter alguma palavra forte que remeta a inteligência artificial
 {REGRAS NEGATIVAS}
-- Não quero que o título contenha palavras em inglês|
+- Não quero que o título contenha palavras em inglês
+```
 
 ### Conteúdo
 
@@ -100,7 +102,11 @@ o formato do roteiro deve ser
 - Não ultrapasse 5 minutos de duração
 ```
 
-| design | Crie uma capa para o podcast, contendo um rosto dividido ao meio: de um lado, pele e expressão humana; do outro, circuitos, códigos ou luzes artificiais. As cores devem ser uma combinação azul petróleo / ciano + Dourado ou âmbar suave, representando a dualidade homem-máquina. O título do podcast em destaque: "Código Moral" em fonte geométrica e moderna (ex: Montserrat Bold, Orbitron, Exo 2) E o subtítulo "Quando a inteligência artificial encontra a consciência humana" em fonte fina e clara. |
+### Design
+
+```md
+Crie uma capa para o podcast, contendo um rosto dividido ao meio: de um lado, pele e expressão humana; do outro, circuitos, códigos ou luzes artificiais. As cores devem ser uma combinação azul petróleo / ciano + Dourado ou âmbar suave, representando a dualidade homem-máquina. O título do podcast em destaque: "Código Moral" em fonte geométrica e moderna (ex: Montserrat Bold, Orbitron, Exo 2) e o subtítulo "Quando a inteligência artificial encontra a consciência humana" em fonte fina e clara.
+```
 
 
 ⌨️ com 💜 por [Beatriz Vesco Diniz](https://github.com/beatrizvesco)
